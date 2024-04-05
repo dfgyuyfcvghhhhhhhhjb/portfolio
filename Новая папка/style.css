@@ -1,0 +1,30 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image: url(https://www.shutterstock.com/image-photo/hacker-hoodie-dark-theme-260nw-1536079445.jpg);
+    background-repeat: no-repeat; 
+    background-attachment: fixed; 
+    background-size: cover;
+}
+
+.box{
+display: grid;
+grid-template-columns: repeat(3,1fr);
+gap: 20px;
+}
+
+h1{
+    text-align: center;
+}
+
+img{
+    width: 100%;
+}
+
+.box1{
+    border: 10px solid red;
+    text-align: center;
+}

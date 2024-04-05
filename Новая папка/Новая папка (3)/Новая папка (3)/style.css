@@ -1,0 +1,44 @@
+body{
+    background-image: url(https://avtomancar.ru/_pu/16/51321869.jpg);
+}
+div{
+width: 30%;
+padding: 20px;
+display: inline-block;
+margin: 20px;
+}
+img{
+    width: 100%;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.box1{
+    background-color: black;
+    border: 5px solid green;
+}
+.box2{
+    background-color: black;
+    border: 5px solid red;
+}
+.box3{
+    background-color: yellow;
+    border: 5px solid blue;
+}
+.box4{
+    background-color: grey;
+    border: 5px solid yellow;
+}
+.box5{
+    background-color: red;
+    border: 5px solid beige;
+}
+.box6{
+    background-color: black;
+    border: 5px solid white;
+}
+.box7{
+    background-color: ;
+}

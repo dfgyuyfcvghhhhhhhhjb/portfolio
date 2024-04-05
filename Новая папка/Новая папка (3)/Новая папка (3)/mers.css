@@ -1,0 +1,16 @@
+body{
+    background-image: url(https://etimg.etb2bimg.com/thumb/msid-99773398,width-1200,height-900,resizemode-4/.jpg);
+    background-size: cover;
+}
+h1{
+    text-align: center;
+}
+div{
+    width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+img{
+    width: 100%;
+} 

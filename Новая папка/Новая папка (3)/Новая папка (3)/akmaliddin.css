@@ -1,0 +1,22 @@
+body{
+    background-image: url(https://static.euronews.com/articles/stories/08/16/43/08/1200x675_cmsv2_bcb3be74-5111-51c6-ac7d-173ac98cec6e-8164308.jpg);
+    background-size: cover;
+}
+h1{
+    text-align: center;
+}
+div{
+    width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+img{
+    width: 100%;
+} 
+h3{
+    color: white;
+}   
+a{
+    background-color: red;
+}

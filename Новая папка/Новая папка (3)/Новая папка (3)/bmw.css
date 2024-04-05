@@ -1,0 +1,22 @@
+body{
+    background-image: url(https://cars.usnews.com/static/images/Auto/izmo/i159615503/2023_bmw_8_series_angularfront.jpg);
+    background-size: cover;
+}
+h1{
+    text-align: center;
+}
+div{
+    width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+img{
+    width: 100%;
+} 
+h3{
+    color: white;
+}
+a{
+    background-color: red;
+}

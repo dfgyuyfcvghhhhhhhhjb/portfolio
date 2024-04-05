@@ -1,0 +1,22 @@
+body{
+    background-image: url(https://repost.uz/storage/uploads/0-1664864568-avto11-post-material.jpeg);
+    background-size: cover;
+}
+h1{
+    text-align: center;
+}
+div{
+    width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+img{
+    width: 100%;
+} 
+h3{
+    color: white;
+}
+a{
+    background-color: red;
+}

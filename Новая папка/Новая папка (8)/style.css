@@ -1,0 +1,177 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 10%;
+  background-color: #C2EFD4;
+}
+
+nav {
+  display: flex;
+  gap: 20px;
+  color: green;
+}
+.g{
+  color:  #224F34;
+}
+
+.bu{
+  color: #224F34;
+  border-color: #224F34;
+}
+.box2{
+display: flex;
+align-items: center;
+}
+
+nav>a{
+    font-size: 22px;
+    font-weight: 500;
+    text-decoration: none;
+    color: #224F34 ;
+}
+
+.cart > button {
+  padding: 11px 41px;
+  background-color: transparent;
+  color: #224F34;
+  border-color: #224F34;
+  border-radius: 5px;
+}
+
+main{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 10%;
+  gap: 20px; 
+  background-color: #C2EFD4; 
+}
+
+.q {
+  width: 35%;
+}
+.r{
+  background-color:#224F34 ;
+  color: white;
+  padding: 10px;
+  width: 125px;
+}
+ 
+.a{
+ color: #224F34;
+ height: 100px;
+}
+
+h1{
+  height: 100px;
+}
+
+h2{
+  text-align: center;
+  color: #224F34; 
+  padding: 20px;
+}
+
+.hp{
+  text-align: center;
+  color: #224F34; 
+}
+
+img{
+  width: 70%;
+}
+
+.box8{
+  display: grid;
+  grid-template-columns: repeat(3,1fr);
+  padding: 100px;
+}
+
+.qw{
+  width: 100px;
+  height: 25px;
+  margin: 20px;
+  gap: 20px;
+  text-align: center;
+  color: #224F34;
+  border-color: #224F34
+}
+
+h3{
+  text-align: center;
+}
+
+.mg{
+    text-align: center;
+    font-size: 22px;
+    font-weight: 500;
+  }
+
+  a{
+    text-decoration: none;
+    color: #454545 ;
+  }
+
+.ss{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    padding: 10px 200px;
+
+}
+
+.t{
+display: flex;
+}
+
+h4{
+  display: flex;
+}
+
+.gi{
+  display: flex;
+  align-items: center;
+  padding: 10px 10%;
+  background-color: #C2EFD4; 
+ margin: 50px;
+  }
+
+  .aza{
+    text-align: center;
+    color: #224F34;
+  }
+
+  .azr{
+    text-align: center;
+    color: #224F34;
+  }
+
+  .class{
+    color: #224F34;
+    text-align: center;
+  }
+
+  h4{
+    color: #224F34;
+  }
+
+  .cl{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    padding: 1px 200px;
+    gap: 100px;
+  }
+
+  p{
+    color: #224F34;
+  }
+
+  .h{
+    background-color: #C2EFD4;
+  }

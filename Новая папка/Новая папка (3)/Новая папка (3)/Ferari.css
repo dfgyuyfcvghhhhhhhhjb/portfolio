@@ -1,0 +1,19 @@
+body{
+    background-image: url(https://m.media-amazon.com/images/I/51cvb6w4heL._AC_UF1000,1000_QL80_.jpg);
+    background-size: cover;
+}
+h1{
+    text-align: center;
+}
+div{
+    width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+img{
+    width: 100%;
+} 
+a{
+    background-color: red;
+}
